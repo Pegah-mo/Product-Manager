@@ -151,7 +151,7 @@ nav {
 main {
   flex: 1;
   padding: 4%;
-  text-align: center;
+  text-align: justify;
   box-sizing: border-box;
 }
 
@@ -167,13 +167,6 @@ main blockquote {
   max-width: 80%;
   font-style: italic;
   color: #FFFFFF;
-}
-
-main p {
-  flex: 1;
-  padding: 4%;
-  text-align: justified;
-  box-sizing: border-box;
 }
 
 /* The footer */
