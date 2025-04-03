@@ -169,6 +169,13 @@ main blockquote {
   color: #FFFFFF;
 }
 
+main p {
+  flex: 1;
+  padding: 4%;
+  text-align: justified;
+  box-sizing: border-box;
+}
+
 /* The footer */
 footer {
   width: 100%;
