@@ -324,9 +324,12 @@ form button:hover {
 	padding: 10px;
 }
 
+a.clickable-div,
+a.clickable-div:link,
+a.clickable-div:visited,
+a.clickable-div:hover,
+a.clickable-div:active,
 a.clickable-div * {
 	text-decoration: none; !important;
 	color: inherit; !important;
-	outline: none;
-	
 }
