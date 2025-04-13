@@ -324,7 +324,7 @@ form button:hover {
 	padding: 10px;
 }
 
-.clickable-div a{
+.clickable-div {
 	text-decoration: none;
 	color: inherit;
 }
