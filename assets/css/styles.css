@@ -307,7 +307,7 @@ form button:hover {
 }
 
 .emergency-button:hover {
-  background-color: #ff2d20; /* Slightly darker red on hover */
+  background-color: #ff2d20; 
   transform: translateX(-50%) scale(1.05);
 }
 
@@ -317,9 +317,14 @@ form button:hover {
 }
 
 .network{
-  float: left; /* moves the box to the left*/
+  float: left; 
 	width: 200px;
 	height: 200px; 
-	margin-right: 10px; /* adds space on the right */
-	padding: 10px; /* adds padding inside */
-			   }
+	margin-right: 10px;
+	padding: 10px;
+}
+
+.clickable-div{
+	text-decoration: none;
+	color: inherit;
+}
